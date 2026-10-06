@@ -1,0 +1,9 @@
+{
+  "name": "public-data-vintage-lab",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "bin": { "vintage-lab": "./src/cli.js" },
+  "scripts": { "test": "node --test", "sample": "node src/cli.js --offline --series PAYEMS --start 2025-01-01 --end 2025-03-01 --first 2025-04-04 --second 2026-02-11 --out outputs", "history-sample": "node src/history-cli.js --offline --series PAYEMS --first 2025-04-04 --second 2026-02-11 --out outputs/history-sample" },
+  "engines": { "node": ">=20" }
+}

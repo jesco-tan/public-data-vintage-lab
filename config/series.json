@@ -1,0 +1,8 @@
+{
+  "PAYEMS": {
+    "units": "thousands of persons, seasonally adjusted",
+    "frequency": "monthly",
+    "source": "U.S. Bureau of Labor Statistics via FRED/ALFRED",
+    "citation": "https://fred.stlouisfed.org/series/PAYEMS"
+  }
+}

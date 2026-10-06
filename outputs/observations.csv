@@ -1,0 +1,7 @@
+information_date,series_id,observation_period,value,realtime_start,realtime_end,units,source
+"2025-04-04","PAYEMS","2025-01-01","100000","2025-02-07","2025-05-01","thousands of persons, seasonally adjusted","https://fred.stlouisfed.org/series/PAYEMS"
+"2025-04-04","PAYEMS","2025-02-01","100100","2025-03-07","2025-05-01","thousands of persons, seasonally adjusted","https://fred.stlouisfed.org/series/PAYEMS"
+"2025-04-04","PAYEMS","2025-03-01","100300","2025-04-04","2025-05-01","thousands of persons, seasonally adjusted","https://fred.stlouisfed.org/series/PAYEMS"
+"2026-02-11","PAYEMS","2025-01-01","99900","2026-02-11","9999-12-31","thousands of persons, seasonally adjusted","https://fred.stlouisfed.org/series/PAYEMS"
+"2026-02-11","PAYEMS","2025-02-01","99950","2026-02-11","9999-12-31","thousands of persons, seasonally adjusted","https://fred.stlouisfed.org/series/PAYEMS"
+"2026-02-11","PAYEMS","2025-03-01","100030","2026-02-11","9999-12-31","thousands of persons, seasonally adjusted","https://fred.stlouisfed.org/series/PAYEMS"

@@ -1,0 +1,682 @@
+{
+  "mode": "live ALFRED API v1",
+  "created_at": "2026-10-06T06:10:54.818Z",
+  "code_revision": "unavailable (no Git repository or Git executable)",
+  "series_id": "PAYEMS",
+  "source": "https://fred.stlouisfed.org/series/PAYEMS",
+  "units": "thousands of persons, seasonally adjusted",
+  "observation_start": "2025-01-01",
+  "observation_end": "2025-03-01",
+  "information_start": "2025-04-04",
+  "information_end": "2026-10-06",
+  "vintage_dates_endpoint_responses": [
+    {
+      "file": "data\\cache\\62eb91d611de1454fb6ee6393ed5aed7952e2f155ba3290de7ee288a900ec160.json",
+      "sha256": "e4a0324cebdf70377c1682257fbfea76369725ba8724569cec27c20633ffb9ba",
+      "retrieved_at": "2026-10-06T06:09:08.867Z",
+      "parameters": {
+        "series_id": "PAYEMS",
+        "realtime_start": "2025-04-04",
+        "realtime_end": "2026-10-06",
+        "file_type": "json",
+        "limit": "10000",
+        "offset": "0"
+      }
+    }
+  ],
+  "snapshots": [
+    {
+      "information_date": "2025-04-04",
+      "parameters": {
+        "series_id": "PAYEMS",
+        "observation_start": "2025-01-01",
+        "observation_end": "2025-03-01",
+        "realtime_start": "2025-04-04",
+        "realtime_end": "2025-04-04",
+        "file_type": "json",
+        "output_type": "1",
+        "units": "lin",
+        "limit": "100000",
+        "offset": "0"
+      },
+      "responses": [
+        {
+          "file": "data\\cache\\6e2ecd8ecca65156a3dffcf7d52cabef11944ae4ddfa901a202fa69fc7292c03.json",
+          "sha256": "84b4e7ca444a02d7e4b8a61d234c60a7d2f7bff642c3355a138aefe2e01d2557",
+          "retrieved_at": "2026-10-06T05:56:35.689Z",
+          "parameters": {
+            "series_id": "PAYEMS",
+            "observation_start": "2025-01-01",
+            "observation_end": "2025-03-01",
+            "realtime_start": "2025-04-04",
+            "realtime_end": "2025-04-04",
+            "file_type": "json",
+            "output_type": "1",
+            "units": "lin",
+            "limit": "100000",
+            "offset": "0"
+          }
+        }
+      ]
+    },
+    {
+      "information_date": "2025-05-02",
+      "parameters": {
+        "series_id": "PAYEMS",
+        "observation_start": "2025-01-01",
+        "observation_end": "2025-03-01",
+        "realtime_start": "2025-05-02",
+        "realtime_end": "2025-05-02",
+        "file_type": "json",
+        "output_type": "1",
+        "units": "lin",
+        "limit": "100000",
+        "offset": "0"
+      },
+      "responses": [
+        {
+          "file": "data\\cache\\216bf01fdf742503e3c840b397e1bf6dcc40af2331d60f063d9a616f2e214ea9.json",
+          "sha256": "5e7babff9579618abe728b1f9abb4f306101a8e9419413e5b3742bc34819cbfb",
+          "retrieved_at": "2026-10-06T06:08:02.222Z",
+          "parameters": {
+            "series_id": "PAYEMS",
+            "observation_start": "2025-01-01",
+            "observation_end": "2025-03-01",
+            "realtime_start": "2025-05-02",
+            "realtime_end": "2025-05-02",
+            "file_type": "json",
+            "output_type": "1",
+            "units": "lin",
+            "limit": "100000",
+            "offset": "0"
+          }
+        }
+      ]
+    },
+    {
+      "information_date": "2025-06-06",
+      "parameters": {
+        "series_id": "PAYEMS",
+        "observation_start": "2025-01-01",
+        "observation_end": "2025-03-01",
+        "realtime_start": "2025-06-06",
+        "realtime_end": "2025-06-06",
+        "file_type": "json",
+        "output_type": "1",
+        "units": "lin",
+        "limit": "100000",
+        "offset": "0"
+      },
+      "responses": [
+        {
+          "file": "data\\cache\\66c94dfa1ada8b055c5d808cd860efa074cba8fe45940393e0d30c768eb9634c.json",
+          "sha256": "2fb4a45c805d25624d965f3110322a9a08ac122bee2a984062936a77b1369b6c",
+          "retrieved_at": "2026-10-06T06:08:04.177Z",
+          "parameters": {
+            "series_id": "PAYEMS",
+            "observation_start": "2025-01-01",
+            "observation_end": "2025-03-01",
+            "realtime_start": "2025-06-06",
+            "realtime_end": "2025-06-06",
+            "file_type": "json",
+            "output_type": "1",
+            "units": "lin",
+            "limit": "100000",
+            "offset": "0"
+          }
+        }
+      ]
+    },
+    {
+      "information_date": "2025-07-03",
+      "parameters": {
+        "series_id": "PAYEMS",
+        "observation_start": "2025-01-01",
+        "observation_end": "2025-03-01",
+        "realtime_start": "2025-07-03",
+        "realtime_end": "2025-07-03",
+        "file_type": "json",
+        "output_type": "1",
+        "units": "lin",
+        "limit": "100000",
+        "offset": "0"
+      },
+      "responses": [
+        {
+          "file": "data\\cache\\992816a7e519f246bd0555ccce8f9102e6900d042fa014d2793fc48b4cab9847.json",
+          "sha256": "e172eb50ff334467107d9736061fd09a8e2e0f6ad7a5d5e01b36bd547cbb625f",
+          "retrieved_at": "2026-10-06T06:08:04.544Z",
+          "parameters": {
+            "series_id": "PAYEMS",
+            "observation_start": "2025-01-01",
+            "observation_end": "2025-03-01",
+            "realtime_start": "2025-07-03",
+            "realtime_end": "2025-07-03",
+            "file_type": "json",
+            "output_type": "1",
+            "units": "lin",
+            "limit": "100000",
+            "offset": "0"
+          }
+        }
+      ]
+    },
+    {
+      "information_date": "2025-08-01",
+      "parameters": {
+        "series_id": "PAYEMS",
+        "observation_start": "2025-01-01",
+        "observation_end": "2025-03-01",
+        "realtime_start": "2025-08-01",
+        "realtime_end": "2025-08-01",
+        "file_type": "json",
+        "output_type": "1",
+        "units": "lin",
+        "limit": "100000",
+        "offset": "0"
+      },
+      "responses": [
+        {
+          "file": "data\\cache\\bbfd66df87e1783049ae852be517a1c462c29fa17d999d11306a2a5db6006b18.json",
+          "sha256": "36c5f30dfdb71a3a1e7a0985ef07f120130baec3708cc20975a87f8cc0c729cd",
+          "retrieved_at": "2026-10-06T06:08:04.860Z",
+          "parameters": {
+            "series_id": "PAYEMS",
+            "observation_start": "2025-01-01",
+            "observation_end": "2025-03-01",
+            "realtime_start": "2025-08-01",
+            "realtime_end": "2025-08-01",
+            "file_type": "json",
+            "output_type": "1",
+            "units": "lin",
+            "limit": "100000",
+            "offset": "0"
+          }
+        }
+      ]
+    },
+    {
+      "information_date": "2025-09-05",
+      "parameters": {
+        "series_id": "PAYEMS",
+        "observation_start": "2025-01-01",
+        "observation_end": "2025-03-01",
+        "realtime_start": "2025-09-05",
+        "realtime_end": "2025-09-05",
+        "file_type": "json",
+        "output_type": "1",
+        "units": "lin",
+        "limit": "100000",
+        "offset": "0"
+      },
+      "responses": [
+        {
+          "file": "data\\cache\\7b43ba51a15866f210bcd90d6c9831aa4c2b067c0ba705961677f5148ac9e254.json",
+          "sha256": "87ad100fdb57350ffbbfda60c49e03a5f6b9b546242980fbeba2f2e6528b48df",
+          "retrieved_at": "2026-10-06T06:08:05.153Z",
+          "parameters": {
+            "series_id": "PAYEMS",
+            "observation_start": "2025-01-01",
+            "observation_end": "2025-03-01",
+            "realtime_start": "2025-09-05",
+            "realtime_end": "2025-09-05",
+            "file_type": "json",
+            "output_type": "1",
+            "units": "lin",
+            "limit": "100000",
+            "offset": "0"
+          }
+        }
+      ]
+    },
+    {
+      "information_date": "2025-11-20",
+      "parameters": {
+        "series_id": "PAYEMS",
+        "observation_start": "2025-01-01",
+        "observation_end": "2025-03-01",
+        "realtime_start": "2025-11-20",
+        "realtime_end": "2025-11-20",
+        "file_type": "json",
+        "output_type": "1",
+        "units": "lin",
+        "limit": "100000",
+        "offset": "0"
+      },
+      "responses": [
+        {
+          "file": "data\\cache\\7978de550d519ea26a13ae64ab207f6cf68605e119b7f2d387b10477f2b9bfbf.json",
+          "sha256": "3363815b2b8d8a6e52b6a633c7621e5b1e27c0432c3db5358c9442af560bc9c8",
+          "retrieved_at": "2026-10-06T06:08:05.528Z",
+          "parameters": {
+            "series_id": "PAYEMS",
+            "observation_start": "2025-01-01",
+            "observation_end": "2025-03-01",
+            "realtime_start": "2025-11-20",
+            "realtime_end": "2025-11-20",
+            "file_type": "json",
+            "output_type": "1",
+            "units": "lin",
+            "limit": "100000",
+            "offset": "0"
+          }
+        }
+      ]
+    },
+    {
+      "information_date": "2025-12-16",
+      "parameters": {
+        "series_id": "PAYEMS",
+        "observation_start": "2025-01-01",
+        "observation_end": "2025-03-01",
+        "realtime_start": "2025-12-16",
+        "realtime_end": "2025-12-16",
+        "file_type": "json",
+        "output_type": "1",
+        "units": "lin",
+        "limit": "100000",
+        "offset": "0"
+      },
+      "responses": [
+        {
+          "file": "data\\cache\\6020dff75d0cc66be4fe98d09a7d435d8dc872c7d84ccfa93667d911604974db.json",
+          "sha256": "460d50efb173bd0ed993f9fa05162c0e858d23ffda1635e0791f6fbf64032ae1",
+          "retrieved_at": "2026-10-06T06:08:05.860Z",
+          "parameters": {
+            "series_id": "PAYEMS",
+            "observation_start": "2025-01-01",
+            "observation_end": "2025-03-01",
+            "realtime_start": "2025-12-16",
+            "realtime_end": "2025-12-16",
+            "file_type": "json",
+            "output_type": "1",
+            "units": "lin",
+            "limit": "100000",
+            "offset": "0"
+          }
+        }
+      ]
+    },
+    {
+      "information_date": "2026-01-09",
+      "parameters": {
+        "series_id": "PAYEMS",
+        "observation_start": "2025-01-01",
+        "observation_end": "2025-03-01",
+        "realtime_start": "2026-01-09",
+        "realtime_end": "2026-01-09",
+        "file_type": "json",
+        "output_type": "1",
+        "units": "lin",
+        "limit": "100000",
+        "offset": "0"
+      },
+      "responses": [
+        {
+          "file": "data\\cache\\54a41c2c25fcf0a59e53fa63ad90dd34de7407cab7349cd46e67954089216e84.json",
+          "sha256": "39aad95ea6ccef566e55949f9e0fc42b09a61c8d164d36189bc45c7b345195d3",
+          "retrieved_at": "2026-10-06T06:08:06.231Z",
+          "parameters": {
+            "series_id": "PAYEMS",
+            "observation_start": "2025-01-01",
+            "observation_end": "2025-03-01",
+            "realtime_start": "2026-01-09",
+            "realtime_end": "2026-01-09",
+            "file_type": "json",
+            "output_type": "1",
+            "units": "lin",
+            "limit": "100000",
+            "offset": "0"
+          }
+        }
+      ]
+    },
+    {
+      "information_date": "2026-02-11",
+      "parameters": {
+        "series_id": "PAYEMS",
+        "observation_start": "2025-01-01",
+        "observation_end": "2025-03-01",
+        "realtime_start": "2026-02-11",
+        "realtime_end": "2026-02-11",
+        "file_type": "json",
+        "output_type": "1",
+        "units": "lin",
+        "limit": "100000",
+        "offset": "0"
+      },
+      "responses": [
+        {
+          "file": "data\\cache\\7b5001712fc79496ba9e5d65d36b3a6f3836393e44cf7d1137a5d8efa0423349.json",
+          "sha256": "35deadfa0bc3c8525861546053fff72915e38234e9dfdc98aa04ed92c25c3913",
+          "retrieved_at": "2026-10-06T05:56:36.021Z",
+          "parameters": {
+            "series_id": "PAYEMS",
+            "observation_start": "2025-01-01",
+            "observation_end": "2025-03-01",
+            "realtime_start": "2026-02-11",
+            "realtime_end": "2026-02-11",
+            "file_type": "json",
+            "output_type": "1",
+            "units": "lin",
+            "limit": "100000",
+            "offset": "0"
+          }
+        }
+      ]
+    },
+    {
+      "information_date": "2026-03-06",
+      "parameters": {
+        "series_id": "PAYEMS",
+        "observation_start": "2025-01-01",
+        "observation_end": "2025-03-01",
+        "realtime_start": "2026-03-06",
+        "realtime_end": "2026-03-06",
+        "file_type": "json",
+        "output_type": "1",
+        "units": "lin",
+        "limit": "100000",
+        "offset": "0"
+      },
+      "responses": [
+        {
+          "file": "data\\cache\\570e3b76c5cac7e34c617fc016d75889769cf60b2684aaa634b6301e8486fc85.json",
+          "sha256": "92984f578d250adbe0c0dc3ae7dedbe85e628efaa919b480ed52af16790d4f6d",
+          "retrieved_at": "2026-10-06T06:09:09.736Z",
+          "parameters": {
+            "series_id": "PAYEMS",
+            "observation_start": "2025-01-01",
+            "observation_end": "2025-03-01",
+            "realtime_start": "2026-03-06",
+            "realtime_end": "2026-03-06",
+            "file_type": "json",
+            "output_type": "1",
+            "units": "lin",
+            "limit": "100000",
+            "offset": "0"
+          }
+        }
+      ]
+    },
+    {
+      "information_date": "2026-04-03",
+      "parameters": {
+        "series_id": "PAYEMS",
+        "observation_start": "2025-01-01",
+        "observation_end": "2025-03-01",
+        "realtime_start": "2026-04-03",
+        "realtime_end": "2026-04-03",
+        "file_type": "json",
+        "output_type": "1",
+        "units": "lin",
+        "limit": "100000",
+        "offset": "0"
+      },
+      "responses": [
+        {
+          "file": "data\\cache\\bf6b5464f91205120b272054bdbef30177902bb75bab9d82cb24dfbb308e32a9.json",
+          "sha256": "be826032f980856da0ae30862450d1566dd025cf12b3effd95bfaf0d863d1731",
+          "retrieved_at": "2026-10-06T06:09:10.045Z",
+          "parameters": {
+            "series_id": "PAYEMS",
+            "observation_start": "2025-01-01",
+            "observation_end": "2025-03-01",
+            "realtime_start": "2026-04-03",
+            "realtime_end": "2026-04-03",
+            "file_type": "json",
+            "output_type": "1",
+            "units": "lin",
+            "limit": "100000",
+            "offset": "0"
+          }
+        }
+      ]
+    },
+    {
+      "information_date": "2026-05-08",
+      "parameters": {
+        "series_id": "PAYEMS",
+        "observation_start": "2025-01-01",
+        "observation_end": "2025-03-01",
+        "realtime_start": "2026-05-08",
+        "realtime_end": "2026-05-08",
+        "file_type": "json",
+        "output_type": "1",
+        "units": "lin",
+        "limit": "100000",
+        "offset": "0"
+      },
+      "responses": [
+        {
+          "file": "data\\cache\\bb7bb0e58be6f11556c254154fa3df1c5cdab1f00c7eaf19c1b50e9f58d33fa3.json",
+          "sha256": "d64138599f00b718c60f7bf4121ee73106e8e803ba8cbe550b720d0e0ef62513",
+          "retrieved_at": "2026-10-06T06:09:10.359Z",
+          "parameters": {
+            "series_id": "PAYEMS",
+            "observation_start": "2025-01-01",
+            "observation_end": "2025-03-01",
+            "realtime_start": "2026-05-08",
+            "realtime_end": "2026-05-08",
+            "file_type": "json",
+            "output_type": "1",
+            "units": "lin",
+            "limit": "100000",
+            "offset": "0"
+          }
+        }
+      ]
+    },
+    {
+      "information_date": "2026-06-05",
+      "parameters": {
+        "series_id": "PAYEMS",
+        "observation_start": "2025-01-01",
+        "observation_end": "2025-03-01",
+        "realtime_start": "2026-06-05",
+        "realtime_end": "2026-06-05",
+        "file_type": "json",
+        "output_type": "1",
+        "units": "lin",
+        "limit": "100000",
+        "offset": "0"
+      },
+      "responses": [
+        {
+          "file": "data\\cache\\f1e8904b464daac43aa253553385ad40467eddb09d095cd9b9cd06378db0c190.json",
+          "sha256": "89b2192a3c810f71d6b5ae57d924e30c3cfe798ec81d17c192d6833721994013",
+          "retrieved_at": "2026-10-06T06:09:10.637Z",
+          "parameters": {
+            "series_id": "PAYEMS",
+            "observation_start": "2025-01-01",
+            "observation_end": "2025-03-01",
+            "realtime_start": "2026-06-05",
+            "realtime_end": "2026-06-05",
+            "file_type": "json",
+            "output_type": "1",
+            "units": "lin",
+            "limit": "100000",
+            "offset": "0"
+          }
+        }
+      ]
+    },
+    {
+      "information_date": "2026-07-02",
+      "parameters": {
+        "series_id": "PAYEMS",
+        "observation_start": "2025-01-01",
+        "observation_end": "2025-03-01",
+        "realtime_start": "2026-07-02",
+        "realtime_end": "2026-07-02",
+        "file_type": "json",
+        "output_type": "1",
+        "units": "lin",
+        "limit": "100000",
+        "offset": "0"
+      },
+      "responses": [
+        {
+          "file": "data\\cache\\f35ace7119076ba81dadb336fe2f50815ea1c7dc2b7377bba953f7e2bb8f7b05.json",
+          "sha256": "05b348513fef668099075a25d5b36cf650d6b28b76cc2fc6aa92946207b9ec04",
+          "retrieved_at": "2026-10-06T06:09:10.919Z",
+          "parameters": {
+            "series_id": "PAYEMS",
+            "observation_start": "2025-01-01",
+            "observation_end": "2025-03-01",
+            "realtime_start": "2026-07-02",
+            "realtime_end": "2026-07-02",
+            "file_type": "json",
+            "output_type": "1",
+            "units": "lin",
+            "limit": "100000",
+            "offset": "0"
+          }
+        }
+      ]
+    },
+    {
+      "information_date": "2026-08-07",
+      "parameters": {
+        "series_id": "PAYEMS",
+        "observation_start": "2025-01-01",
+        "observation_end": "2025-03-01",
+        "realtime_start": "2026-08-07",
+        "realtime_end": "2026-08-07",
+        "file_type": "json",
+        "output_type": "1",
+        "units": "lin",
+        "limit": "100000",
+        "offset": "0"
+      },
+      "responses": [
+        {
+          "file": "data\\cache\\d21c040b9bd2220d6261204f8629fe246cdcd53f8e7db03d765202a53705915d.json",
+          "sha256": "5bbfab0e3dd6ec7752a74be3b953910fede3c36a89a8f6ff3b6d878b87b98189",
+          "retrieved_at": "2026-10-06T06:09:11.823Z",
+          "parameters": {
+            "series_id": "PAYEMS",
+            "observation_start": "2025-01-01",
+            "observation_end": "2025-03-01",
+            "realtime_start": "2026-08-07",
+            "realtime_end": "2026-08-07",
+            "file_type": "json",
+            "output_type": "1",
+            "units": "lin",
+            "limit": "100000",
+            "offset": "0"
+          }
+        }
+      ]
+    },
+    {
+      "information_date": "2026-09-04",
+      "parameters": {
+        "series_id": "PAYEMS",
+        "observation_start": "2025-01-01",
+        "observation_end": "2025-03-01",
+        "realtime_start": "2026-09-04",
+        "realtime_end": "2026-09-04",
+        "file_type": "json",
+        "output_type": "1",
+        "units": "lin",
+        "limit": "100000",
+        "offset": "0"
+      },
+      "responses": [
+        {
+          "file": "data\\cache\\e109026460ed8507efdc324095a4231d5c81c2b9804700289f5112c3ce37b81f.json",
+          "sha256": "02d4bb5bfce684795e3f6e78b42c4221ba88904102e3f282e197926ee2ece826",
+          "retrieved_at": "2026-10-06T06:09:12.122Z",
+          "parameters": {
+            "series_id": "PAYEMS",
+            "observation_start": "2025-01-01",
+            "observation_end": "2025-03-01",
+            "realtime_start": "2026-09-04",
+            "realtime_end": "2026-09-04",
+            "file_type": "json",
+            "output_type": "1",
+            "units": "lin",
+            "limit": "100000",
+            "offset": "0"
+          }
+        }
+      ]
+    },
+    {
+      "information_date": "2026-10-02",
+      "parameters": {
+        "series_id": "PAYEMS",
+        "observation_start": "2025-01-01",
+        "observation_end": "2025-03-01",
+        "realtime_start": "2026-10-02",
+        "realtime_end": "2026-10-02",
+        "file_type": "json",
+        "output_type": "1",
+        "units": "lin",
+        "limit": "100000",
+        "offset": "0"
+      },
+      "responses": [
+        {
+          "file": "data\\cache\\2b017f9bf22ca2c25a8bfe2b8827fe4fc75c5063c95f3dac6bcbe337ced14941.json",
+          "sha256": "ae07c43468a7213fa3d0219945fcdae5e80a57b980c60cff8b3b39e2c58796db",
+          "retrieved_at": "2026-10-06T06:09:12.907Z",
+          "parameters": {
+            "series_id": "PAYEMS",
+            "observation_start": "2025-01-01",
+            "observation_end": "2025-03-01",
+            "realtime_start": "2026-10-02",
+            "realtime_end": "2026-10-02",
+            "file_type": "json",
+            "output_type": "1",
+            "units": "lin",
+            "limit": "100000",
+            "offset": "0"
+          }
+        }
+      ]
+    },
+    {
+      "information_date": "2026-10-06",
+      "parameters": {
+        "series_id": "PAYEMS",
+        "observation_start": "2025-01-01",
+        "observation_end": "2025-03-01",
+        "realtime_start": "2026-10-06",
+        "realtime_end": "2026-10-06",
+        "file_type": "json",
+        "output_type": "1",
+        "units": "lin",
+        "limit": "100000",
+        "offset": "0"
+      },
+      "responses": [
+        {
+          "file": "data\\cache\\4f88b0d2300044eecbcc5cf1060a95b1a1b4945ce8ed384e6b9ee645d7aa2a0c.json",
+          "sha256": "4a3d45bcf9670ea71627bfdcd0c80417068dab65b2e9056f490cb017502f3466",
+          "retrieved_at": "2026-10-06T06:09:13.228Z",
+          "parameters": {
+            "series_id": "PAYEMS",
+            "observation_start": "2025-01-01",
+            "observation_end": "2025-03-01",
+            "realtime_start": "2026-10-06",
+            "realtime_end": "2026-10-06",
+            "file_type": "json",
+            "output_type": "1",
+            "units": "lin",
+            "limit": "100000",
+            "offset": "0"
+          }
+        }
+      ]
+    }
+  ],
+  "rule": {
+    "previous": "2025-02-01",
+    "current": "2025-03-01",
+    "threshold_thousands": 150
+  },
+  "report_sha256": "634caceb7e9e43cf00711338b0c588a356b2d10d9729521b566eaebc10306b93",
+  "history_sha256": "d0e4c79e750e2c49192ceaa2584d159dad37d7cee05b19d950ce7bfa86aa5ccc"
+}

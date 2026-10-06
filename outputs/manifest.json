@@ -1,0 +1,63 @@
+{
+  "mode": "synthetic fixture — not observed PAYEMS data",
+  "created_at": "2026-10-06T05:37:44.906Z",
+  "code_revision": "unavailable (no Git repository or Git executable)",
+  "series_id": "PAYEMS",
+  "units": "thousands of persons, seasonally adjusted",
+  "source": "https://fred.stlouisfed.org/series/PAYEMS",
+  "observation_start": "2025-01-01",
+  "observation_end": "2025-03-01",
+  "information_dates": [
+    "2025-04-04",
+    "2026-02-11"
+  ],
+  "requests": [
+    {
+      "series_id": "PAYEMS",
+      "observation_start": "2025-01-01",
+      "observation_end": "2025-03-01",
+      "realtime_start": "2025-04-04",
+      "realtime_end": "2025-04-04",
+      "file_type": "json",
+      "output_type": "1",
+      "units": "lin",
+      "limit": "100000",
+      "offset": "0"
+    },
+    {
+      "series_id": "PAYEMS",
+      "observation_start": "2025-01-01",
+      "observation_end": "2025-03-01",
+      "realtime_start": "2026-02-11",
+      "realtime_end": "2026-02-11",
+      "file_type": "json",
+      "output_type": "1",
+      "units": "lin",
+      "limit": "100000",
+      "offset": "0"
+    }
+  ],
+  "responses": [
+    [
+      {
+        "sha256": "91ac954a0997116d27bc03edda86a14fe573778092e13aee8a922b2da8d755d6",
+        "retrieved_at": null,
+        "fixture": "tests/fixtures/snapshots.json"
+      }
+    ],
+    [
+      {
+        "sha256": "a320bba3d3150224876d80879c1eb4e1605822fc622c1ad034972183a71322a8",
+        "retrieved_at": null,
+        "fixture": "tests/fixtures/snapshots.json"
+      }
+    ]
+  ],
+  "rule": {
+    "previous": "2025-02-01",
+    "current": "2025-03-01",
+    "threshold_thousands": 150
+  },
+  "report_sha256": "906ddbb002cff25db00d4fbd37ba7bf7fe7aa057e351c15274f8a505961a3bdc",
+  "observations_sha256": "299990e452da6830e594ff877ad937825d262df02eaedaccaf418c5c4951daaa"
+}
